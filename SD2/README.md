@@ -10,6 +10,10 @@ For dmc suite tasks:
 ```
 python dmc_control.py
 ```
+For dmc suite tasks with visual input:
+```
+python dmc_control_visual.py
+```
 For gym-mujoco tasks:
 ```
 python gym_mujoco.py
